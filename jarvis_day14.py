@@ -617,7 +617,7 @@ try:
                 elif commander == "stop":
                     speak("ok you said stop. ")
                     speak("so see you again christy. ")
-                    speak("and wishing you all the best with devika. ")
+                    
                     k = True
                     break
                 if (key_word_checker(commander)):

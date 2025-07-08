@@ -82,13 +82,6 @@ This version feels *alive* — it:
 
 ---
 
-## 💡 Future Plans
-- Add ML-based adaptive memory and emotional learning
-- GUI interface and waveform visualizer
-- Integrate real-time camera input using OpenCV
-- Create a shoulder-mounted robotic version of Violet
-
----
 
 ## 👨‍💻 Created By
 
